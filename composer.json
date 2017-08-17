@@ -1,0 +1,6 @@
+{
+    "require": {
+        "slim/slim": "^3.8",
+        "php-curl-class/php-curl-class": "^7.3"
+    }
+}
